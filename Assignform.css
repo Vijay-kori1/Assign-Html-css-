@@ -20,3 +20,8 @@ body{
 input{
     border-radius: 7px;
 }
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 7px;
+}
